@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-        {"src": "/(.*)", "dest": "http://127.0.0.1:9000/$1"}
+        {"src": "/(.*)", "dest": "https://pan-chenghua.glitch.me/$1"}
     ]
 }
