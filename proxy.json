@@ -4,9 +4,9 @@
     {
       "src": "/(.*)",
       "headers": {
-        "host": "plus.aivvm.com"
+        "host": "ochat.shellten.top"
       },
-      "dest": "https://plus.aivvm.com/$1"
+      "dest": "https://ochat.shellten.top/$1"
     }
   ]
 }
