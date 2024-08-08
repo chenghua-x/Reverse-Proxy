@@ -1,12 +1,5 @@
 {
-  "version": 2,
-  "routes": [
-    {
-      "src": "/(.*)",
-      "headers": {
-        "host": "vvnewnodunchenghuasite.aischat.xyz"
-      },
-      "dest": "https://vvnewnodunchenghuasite.aischat.xyz/$1"
-    }
+  "rewrites": [
+    {"source": "/(.*)", "destination": "vvnewnodunchenghuasite.aischat.xyz/$1"}
   ]
 }
