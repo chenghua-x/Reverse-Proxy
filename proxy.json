@@ -4,9 +4,9 @@
     {
       "src": "/(.*)",
       "headers": {
-        "host": "sharechat.aischat.xyz"
+        "host": "vvnewnodunchenghuasite.aischat.xyz"
       },
-      "dest": "https://sharechat.aischat.xyz/$1"
+      "dest": "https://vvnewnodunchenghuasite.aischat.xyz/$1"
     }
   ]
 }
