@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-        {"src": "/(.*)", "dest": "https://pan-chenghua.glitch.me/$1"}
+        {"src": "/(.*)", "dest": "https://plus.aivvm.com/$1"}
     ]
 }
