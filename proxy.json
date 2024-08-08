@@ -4,9 +4,9 @@
     {
       "src": "/(.*)",
       "headers": {
-        "host": "ochat.shellten.top"
+        "host": "sharechat.aischat.xyz"
       },
-      "dest": "https://ochat.shellten.top/$1"
+      "dest": "https://sharechat.aischat.xyz/$1"
     }
   ]
 }
