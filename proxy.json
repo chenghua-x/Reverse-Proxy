@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-        {"src": "/(.*)", "dest": "http://vvnewnodunchenghuasite.aischat.xyz/$1"}
+        {"src": "/(.*)", "dest": "http://sharechat.aischat.xyz/$1"}
     ]
 }
