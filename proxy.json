@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-        {"src": "/(.*)", "dest": "https://sharechat.aischat.xyz/$1"}
+        {"src": "/(.*)", "dest": "http://cloudflare-plus.chenghua.workers.dev/$1"}
     ]
 }
