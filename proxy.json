@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-        {"src": "/(.*)", "dest": "http://cloudflare-plus.chenghua.workers.dev/$1"}
+        {"src": "/(.*)", "dest": "http://8.147.232.226:5000/$1"}
     ]
 }
